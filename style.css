@@ -1,0 +1,17 @@
+ 
+#container{
+    max-width: 800px;
+    margin: auto;
+}
+
+#survey-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+input{
+    border-radius: 3px;
+    height: 20px;
+}
